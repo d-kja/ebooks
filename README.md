@@ -9,4 +9,4 @@
 
 ### Rust
 
-- Programming rust, 2nd edition, [link](https://github.com/francoposa/programming-rust) repo owner: *francoposa*
+- Programming rust, 2nd edition, [link](https://github.com/francoposa/programming-rust) *repo owner: francoposa*
