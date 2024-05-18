@@ -2,6 +2,7 @@
 
 ## Resources
 
+So you want to be a wizard?, by Julia Evans. [link](https://jvns.ca/wizard-zine.pdf)
 Teach yourself CS, [link](https://teachyourselfcs.com/)
 
 ### Repos
