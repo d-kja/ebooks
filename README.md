@@ -2,8 +2,9 @@
 
 ## Resources
 
-So you want to be a wizard?, by Julia Evans. [link](https://jvns.ca/wizard-zine.pdf) </br>
-Teach yourself CS, [link](https://teachyourselfcs.com/)
+- Learn by doing, codecrafters [link](https://app.codecrafters.io)  
+- So you want to be a wizard?, by Julia Evans. [link](https://jvns.ca/wizard-zine.pdf) </br>
+- Teach yourself CS, [link](https://teachyourselfcs.com/)
 
 ### Repos
 
@@ -14,7 +15,12 @@ Teach yourself CS, [link](https://teachyourselfcs.com/)
 
 #### Rust
 
+- Learning Rust With Entirely Too Many Linked Lists [link](https://rust-unofficial.github.io/too-many-lists)
 - Programming rust, 2nd edition, [link](https://github.com/francoposa/programming-rust) *repo owner: francoposa*
+
+### CLI
+
+- Linux Command Line Computing [link](https://learnbyexample.github.io/cli-computing)
 
 #### Mathematics
 
